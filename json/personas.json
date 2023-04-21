@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "644202fa9fa84bcd685ab6e9"
+  },
+  "Nombre": "David",
+  "Edad": "16",
+  "TpSangre": "A+",
+  "Nss": "Sr051"
+},{
+  "_id": {
+    "$oid": "644204d3487c70f689554b2a"
+  },
+  "Nombre": "Roy",
+  "Edad": "29",
+  "Nss": "SR123",
+  "TpSangre": "O+"
+},{
+  "_id": {
+    "$oid": "644205cbb4f8ed4c38ca1b9e"
+  },
+  "Nombre": "Bruce",
+  "Edad": "19",
+  "Nss": "Sr117",
+  "TpSangre": "O-"
+}]
